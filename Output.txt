@@ -1,0 +1,54 @@
+ ./STack1a5
+
+Enter option
+1 Push
+2 Pop
+3 Exit
+1
+
+Enter element to store in stack :5
+
+Enter option
+1 Push
+2 Pop
+3 Exit1
+
+Enter element to store in stack :6
+
+Enter option
+1 Push
+2 Pop
+3 Exit1
+
+Enter element to store in stack :7
+
+Enter option
+1 Push
+2 Pop
+3 Exit2
+
+Element poped = 0
+Enter option
+1 Push
+2 Pop
+3 Exit2
+
+Element poped = 7
+Enter option
+1 Push
+2 Pop
+3 Exit2
+
+Element poped = 6
+Enter option
+1 Push
+2 Pop
+3 Exit2
+
+Element poped = 5
+Enter option
+1 Push
+2 Pop
+3 Exit2
+
+Stack underflow
